@@ -1,0 +1,22 @@
+# NPM
+node_modules
+
+# Logs
+*.log
+
+# caches
+.cache
+
+# vs code
+.vscode
+
+# package files
+package.tgz
+
+# generated code
+dist
+
+*.env
+.env
+
+certs
